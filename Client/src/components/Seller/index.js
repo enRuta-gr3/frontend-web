@@ -1,0 +1,1 @@
+export {default as SellerLayout } from  './SellerUi/SellerLayout'

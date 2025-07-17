@@ -1,0 +1,1 @@
+export {default as ComprobantePasajePage} from './compra_exitosa'

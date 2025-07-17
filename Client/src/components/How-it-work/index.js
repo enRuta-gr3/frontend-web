@@ -1,0 +1,1 @@
+export { default as HowItWork } from './How-it-work';
