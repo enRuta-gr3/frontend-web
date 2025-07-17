@@ -11,12 +11,12 @@
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/MasliahDev99/EnRuta.git
+   git clone https://github.com/enRuta-gr3/frontend-web.git
    ```
 
 2. Navega a la carpeta del cliente:
    ```bash
-   cd EnRuta/Client
+   cd frontend-web/Client
    ```
 
 3. Instala las dependencias:
