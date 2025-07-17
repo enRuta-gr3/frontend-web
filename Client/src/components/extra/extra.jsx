@@ -53,10 +53,11 @@ export default function CTA() {
             </ul>
 
             <div className="flex flex-col sm:flex-row gap-4">
-              <a href="/appEnruta01.apk" download>
+              <a href="/enRuta.apk" download>
                 <Button className="bg-orange-500 hover:bg-orange-600 text-white cursor-pointer">
                   <Download className="h-5 w-5 mr-2" />
                   Descargar APK
+                  
                 </Button>
               </a>
             </div>
